@@ -1,0 +1,56 @@
+body{ background:url(imagesofhoutai/login_1.gif)}
+
+#container{
+			background:#006 url(imagesofhoutai/login_2.jpg) -10px -20px  ;
+			height:250px;
+			width: 450px;
+			text-align:center;
+			padding:40px;
+			margin:100px auto
+			}
+			
+#u1 { font:25px Tahoma;
+	  border: medium;
+	  padding:5px 2px 2px 2px;
+	  
+	}
+	
+#u2 { font:25px Tahoma;
+	  padding:5px 2px 2px 2px;	
+	}
+	
+				
+#p1 { font:25px Tahoma;
+  	  border: medium;
+	  padding:5px 2px 2px 2px;
+	}
+	
+#p2 { font:25px Tahoma;
+    
+	  padding:5px 2px 2px 2px;	
+	}
+	
+#up { font:25px Tahoma;
+	  padding:20px 2px 2px 2px;	
+	}
+	
+#username{ width:160px;
+		   height:25px;
+		   line-height:!important;
+		   font:25px;
+	}	
+	
+#password{ width:160px;
+		   height:25px;
+		   line-height:!important;
+		   font:25px;
+	}	
+	
+#submit{ padding:5px; 
+		 font:25px Tahoma, Geneva, sans-serif;
+		 width:140px;
+		 height:40px;
+	
+	}	
+	
+	

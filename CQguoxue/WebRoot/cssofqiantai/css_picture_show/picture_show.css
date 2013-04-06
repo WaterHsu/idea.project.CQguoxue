@@ -1,0 +1,22 @@
+#demo {
+background:url(19.jpg);
+overflow:hidden;
+/*border: 1px dashed #CCC;*/
+width: 640px;
+padding:10px 10px 10px 10px;
+height:145px;
+}
+#demo img {
+border: 3px solid #F2F2F2;
+height:130px;
+}
+#indemo {
+float: left;
+width: 800%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}

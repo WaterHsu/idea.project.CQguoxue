@@ -1,0 +1,64 @@
+
+#lib_Tab1_sx{width:645px;margin:0px;padding:0 0 0 0;margin-bottom:5px; overflow:hidden;}
+
+#lib_Tab2_sx{width:645px;margin:0px;padding:0 0 0 0;margin-bottom:5px; overflow:hidden;}
+/*菜单class*/
+.lib_tabborder_sx{border:1px solid  #95C9E1;}
+.lib_Menubox_sx {line-height:28px;position:relative; float:left; width:200px; height:318px;border-right:1px solid #95C9E1; text-align:center; }
+
+.lib_Menubox_sx ul{margin:0px;padding:0px;list-style:none; position:absolute; top:15px; left:5px; margin-left:10px; height:30px;text-align:center;}
+.lib_Menubox_sx li{display:block;cursor:pointer;width:184px;color:#080808;font-weight:100; margin-bottom:5px;height:30px;line-height:25px; background-color:#E4F2FD}
+.lib_Menubox_sx li.hover{padding:0px;background:url(19.jpg);width:186px;border:1px solid #95C9E1; border-right:0;
+color:#739242;height:30px;line-height:25px;}
+.lib_Contentbox_sx{margin-top:0px; border-top:none;padding:5px; border-left:0; margin-left:200px;}
+
+
+
+
+
+
+#lib_Tab3_sx{width:645px;margin:0px;padding:0 0 0 0;margin-bottom:15px; overflow:hidden;}
+/*菜单class*/
+.lib3_tabborder_sx{border:1px solid #95C9E1 ;}
+.lib3_Menubox_sx {line-height:28px;position:relative; float:left; width:200px; height:218px;border-right:1px solid #95C9E1;}
+
+.lib3_Menubox_sx ul{margin:0px;padding:0px;list-style:none; position:absolute; top:15px; left:5px; margin-left:10px; height:30px;text-align:center;}
+.lib3_Menubox_sx li{display:block;cursor:pointer;width:184px;color:#080808;font-weight:100; margin-bottom:5px;height:30px;line-height:25px; background-color:#E4F2FD}
+.lib3_Menubox_sx li.hover{padding:0px;background:url(19.jpg);width:186px;border:1px solid #95C9E1; border-right:0;
+color:#739242;height:30px;line-height:25px;}
+.lib3_Contentbox_sx{margin-top:0px; border-top:none;padding:5px; border-left:0; margin-left:200px;}
+
+
+
+
+
+
+
+#lib_Tab4_sx{width:250px;margin:0px;padding:0 0 0 0;margin-bottom:15px; overflow:hidden;}
+/*菜单class*/
+.lib4_tabborder_sx{border:1px solid #95C9E1;}
+.lib4_Menubox_sx {line-height:28px;position:relative; float:left; width:85px; height:168px;border-right:1px solid #95C9E1;}
+
+.lib4_Menubox_sx ul{margin:0px;padding:0px;list-style:none; position:absolute; top:15px; left:5px; margin-left:0px; height:30px;text-align:center;}
+.lib4_Menubox_sx li{display:block;cursor:pointer;width:79px;color:#080808;font-weight: 100; margin-bottom:5px;height:32px;line-height:25px; background-color:#E4F2FD}
+.lib4_Menubox_sx li.hover{padding:0px;background:url(19.jpg);width:81px;border:1px solid #95C9E1; border-right:0;
+color:#739242;height:30px;line-height:25px;}
+.lib4_Contentbox_sx{margin-top:0px; border-top:none;padding:0px; border-left:0; margin-left:100px;}
+
+
+
+
+
+
+
+
+#lib_Tab5_sx{width:250px;margin:0px;padding:0 0 0 0;margin-bottom:15px; overflow:hidden;}
+/*菜单class*/
+.lib5_tabborder_sx{border:1px solid #95C9E1;}
+.lib5_Menubox_sx {line-height:28px;position:relative; float:left; width:85px; height:167px;border-right:1px solid #95C9E1;}
+
+.lib5_Menubox_sx ul{margin:0px;padding:0px;list-style:none; position:absolute; top:15px; left:5px; margin-left:0px; height:30px;text-align:center;}
+.lib5_Menubox_sx li{display:block;cursor:pointer;width:79px;color:#080808;;font-weight: 100; margin-bottom:5px;height:32px;line-height:25px; background-color:#E4F2FD}
+.lib5_Menubox_sx li.hover{padding:0px;background:url(19.jpg);width:81px;border:1px solid #95C9E1; border-right:0;
+color:#739242;height:30px;line-height:25px;}
+.lib5_Contentbox_sx{margin-top:0px; border-top:none;padding:0px; border-left:0; margin-left:100px;}
